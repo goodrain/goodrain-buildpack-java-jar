@@ -15,7 +15,7 @@ ENV_DIR=$3
 
 export_env_dir $ENV_DIR
 
-JVM_COMMON_BUILDPACK=${JVM_COMMON_BUILDPACK:-http://lang.goodrain.com/jvm/jvm-common.tgz}
+JVM_COMMON_BUILDPACK=${JVM_COMMON_BUILDPACK:-http://lang.goodrain.me/jvm/jvm-common.tgz}
 
 
 mkdir -p /tmp/jvm-common
