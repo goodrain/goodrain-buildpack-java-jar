@@ -1,6 +1,6 @@
 # JAVA JAR APP buildpack
 
-云帮为了让您更方便的部署项目，特推出识可别**JAR包**的构建模式- **JAVA JAR APP buildpack** 。
+云帮为了让您更方便的部署项目，特推出可识别**JAR包**的构建模式- **JAVA JAR APP buildpack** 。
 
 ## 工作原理
 
